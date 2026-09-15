@@ -320,15 +320,3 @@ form textarea {
   background-color: #ffffff;
   color: #222222;
 }
-
-.cert-card {
-  max-width: 900px;
-}
-
-#projects article.cert-card img {
-  width: 50%;
-  height: auto;
-  object-fit: contain;
-  display: block;
-  margin: 0 auto;
-}
